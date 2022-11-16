@@ -1,6 +1,6 @@
 # 03-lx-frontend-CSS
 
-## Caso de estudio: Pastelería
+## Caso de estudio: Campaña de vacunación COVID-19
 
 Para esta práctica necesito que clonen la página que está en el siguiente enlace [Link](./assets/landingVacunaci%C3%B3n.png) del diseño by [Adhiari Subekti.](https://dribbble.com/Adhiari_is)
 
