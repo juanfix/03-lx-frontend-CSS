@@ -1,0 +1,63 @@
+body {
+  /* background-color: #a09d9d; */
+  color: #1f3e72;
+}
+
+h1, h2, h3, h4, h5, span {
+  color: #1f3e72;
+}
+
+/* Navbar */
+
+nav {
+  background-color: #eef3ff;
+  color: #1f3e72;
+  opacity: 0.8;
+}
+
+.navbar-brand {
+  color: blue;
+  font-weight: bold;
+}
+
+/* Close Navbar */
+
+/* Body */
+
+.center-contain {
+  align-items: center;
+  text-align: center;
+}
+
+.icon-yellow {
+  color: rgb(190, 190, 90);
+}
+
+.icon-blue {
+  color: #1f3e72;
+}
+
+.logo-vaccine {
+  opacity: 0.2;
+}
+
+/* Close Body */
+
+/* Footer */
+
+footer {
+  background-color: #eef3ff;
+  color: #1f3e72;
+  opacity: 0.8;
+}
+
+footer h6 {
+  color: blue;
+  font-weight: bold;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+/* Close Footer */
